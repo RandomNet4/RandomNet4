@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Halo semua! 
-
 Perkenalkan nama saya **Ramadhana Rizki Zulkarnaen**.<br>
 
 Saya seorang **Junior Programmer** .<br>
